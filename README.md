@@ -3,8 +3,7 @@ Creating an automated tool for the SSRF process involves integrating multiple fu
 
 Ssrf Automation Tool
 
-Answer in chat instead
-Features of the Tool
+# Features of the Tool
 URL Gathering: Uses waybackurls and gau to collect URLs.
 SSRF Filtering: Filters URLs with potential SSRF parameters using gf.
 Payload Injection: Replaces parameter values with a Burp Collaborator payload using qsreplace.
